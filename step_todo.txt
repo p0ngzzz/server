@@ -1,0 +1,13 @@
+Step to dd project
+1. npm init
+2. npm install nodemon -D`: for install nodemon for dev dependency
+3. setting npm start, dev in package.json file
+4. install express module : for create server using express
+5. install module that we need to use: bcrypt, cookie-parser, cors, dotenv, jsonwebtoken, mongoose
+6. create server => set simple middleware => set cors => connect DB
+7. set credential for let client work with cookie
+8. set error_handler and logEvents middleware
+9. create routes and create directory for create api 
+10. create auth api
+11. create route api for register, login, logout, refresh, user and create authController for control logic api
+*** multer module use for work with file upload file or something with file
